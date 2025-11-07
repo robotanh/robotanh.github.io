@@ -1,7 +1,36 @@
 [
-  { "type": "RON 95-III", "price": 18850, "unit": "VND/L" },
-  { "type": "E5 RON 92-II", "price": 18490, "unit": "VND/L" },
-  { "type": "DO 0,05S-II", "price": 17030, "unit": "VND/L" },
-  { "type": "DO 0,001S-V", "price": 17660, "unit": "VND/L" },
-  { "type": "KO", "price": 17180, "unit": "VND/L" }
+    {
+      "title": "Xăng RON 95-V",
+      "zone1_price": 20400,
+      "zone2_price": 20800
+    },
+    {
+      "title": "Xăng RON 95-III",
+      "zone1_price": 19900,
+      "zone2_price": 20290
+    },
+    {
+      "title": "Xăng E5 RON 92-II",
+      "zone1_price": 19220,
+      "zone2_price": 19600
+    },
+    {
+      "title": "Xăng E10 RON 95-III",
+      "zone1_price": 19680,
+      "zone2_price": 20070
+    },
+    {
+      "title": "DO 0,05S-II",
+      "zone1_price": 18420,
+      "zone2_price": 18780
+    },
+    {
+      "title": "DO 0,001S-V",
+      "zone1_price": 18840,
+      "zone2_price": 19210
+    },
+    {
+      "title": "Dầu KO",
+      "price": 18400
+    }
 ]
