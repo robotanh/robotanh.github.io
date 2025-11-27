@@ -12,23 +12,23 @@
         },
         {
           "title": "Xăng E5 RON 92-II",
-          "zone1_price": 19800,
-          "zone2_price": 20190
+          "zone1_price": 19280,
+          "zone2_price": 19660
         },
         {
           "title": "Xăng E10 RON 95-III",
-          "zone1_price": 20120,
-          "zone2_price": 20520
+          "zone1_price": 19650,
+          "zone2_price": 20040
         },
         {
           "title": "DO 0,05S-II",
-          "zone1_price": 19820,
-          "zone2_price": 20210
+          "zone1_price": 18800,
+          "zone2_price": 19170
         },
         {
           "title": "DO 0,001S-V",
-          "zone1_price": 20310,
-          "zone2_price": 20710
+          "zone1_price": 19290,
+          "zone2_price": 19670
         },
         {
           "title": "Dầu KO",
@@ -38,7 +38,7 @@
     [
         {
           "title": "Dầu KO",
-          "price": 20280
+          "price": 19470
         }
     ]
 ]
