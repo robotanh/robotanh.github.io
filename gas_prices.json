@@ -2,23 +2,23 @@
     [
         {
           "title": "Xăng RON 95-V",
-          "zone1_price": 19360,
-          "zone2_price": 19740
+          "zone1_price": 19510,
+          "zone2_price": 19900
         },
         {
           "title": "Xăng RON 95-III",
-          "zone1_price": 18560,
-          "zone2_price": 18930
+          "zone1_price": 18710,
+          "zone2_price": 19080
         },
         {
           "title": "Xăng E5 RON 92-II",
-          "zone1_price": 18230,
-          "zone2_price": 18590
+          "zone1_price": 18370,
+          "zone2_price": 18730
         },
         {
           "title": "Xăng E10 RON 95-III",
-          "zone1_price": 18460,
-          "zone2_price": 18820
+          "zone1_price": 18590,
+          "zone2_price": 18960
         },
         {
           "title": "DO 0,05S-II",
