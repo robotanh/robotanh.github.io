@@ -22,23 +22,23 @@
         },
         {
           "title": "DO 0,05S-II",
-          "zone1_price": 17060,
-          "zone2_price": 17400
+          "zone1_price": 17280,
+          "zone2_price": 17620
         },
         {
           "title": "DO 0,001S-V",
-          "zone1_price": 17660,
-          "zone2_price": 18010
+          "zone1_price": 17880,
+          "zone2_price": 18230
         },
         {
           "title": "Dầu KO",
-          "price": 17550
+          "price": 17690
         }
     ],
     [
         {
           "title": "Dầu KO",
-          "price": 17550
+          "price": 17690
         }
     ]
 ]
